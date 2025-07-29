@@ -1,2 +1,2 @@
-# MachineLearning.HotelBookings
-Modeling Hotel Bookings in R
+# Machine Learning Projects in R 
+
